@@ -16,7 +16,7 @@ Para este projeto, os conceitos foram formalizados da seguinte maneira:
 
 * **Linguagem:** Java (JDK 17+)
 * **Paradigma:** Orientada a Objetos (OO)
-* **IDE Sugerida:** IntelliJ IDEA ou VS Code
+* **IDE Utilizada:** Apache NetBeans
 
 ## 📁 Estrutura do Projeto
 
